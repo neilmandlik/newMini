@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+./backend/node_modules
+./backend/env
+/assignment allocation1.csv
+/assignment questions.csv
+/assignment_submission1.csv
+/assignment_system_Faculty.csv
+/assignment_system_subject.csv
+/question_responses.csv
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+>>>>>>> d9c4dd0b7bd845274e11c1e63d63115dada40c1e

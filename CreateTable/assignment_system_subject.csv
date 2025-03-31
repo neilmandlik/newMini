@@ -1,0 +1,11 @@
+subject_id,subject_name,abbreviation,subject_type
+1,operating system,OS,theory
+2,cloud foundations,CF,theory
+3,cloud foundations lab,CFL,practical
+4,data center essentials,DCE,theory
+5,web technology,WTL,practical
+6,dockers and containers,DC,theory
+7,database management system lab,DMSL,practical
+8,database management system,DMS,theory
+9,distrubuted system,DS,theory
+10,distrubuted system lab,DSL,practical
