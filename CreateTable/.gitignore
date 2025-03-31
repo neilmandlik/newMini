@@ -1,12 +1,12 @@
 <<<<<<< HEAD
-./backend/node_modules
-./backend/env
-/assignment allocation1.csv
-/assignment questions.csv
-/assignment_submission1.csv
-/assignment_system_Faculty.csv
-/assignment_system_subject.csv
-/question_responses.csv
+node_modules/
+.env
+assignment allocation1.csv
+assignment questions.csv
+assignment_submission1.csv
+assignment_system_Faculty.csv
+assignment_system_subject.csv
+question_responses.csv
 =======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
